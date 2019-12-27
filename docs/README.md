@@ -1,6 +1,6 @@
 # Headline
 
 > An awesome project.
-[test](http://localhost:3000/#/test)
+[test](test.md)
 
 最后更新：{docsify-updated}
