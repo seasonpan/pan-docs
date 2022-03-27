@@ -1,5 +1,3 @@
 # 首页
 
 > pan docs
-
-最后更新：{docsify-updated}
